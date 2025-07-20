@@ -1,0 +1,11 @@
+customer_id	name	email	signup_date	country
+1	Alice Johnson	alice@example.com	01-03-2023	USA
+2	Bob Smith	bob@example.com	05-03-2023	Canada
+3	Charlie Brown	charlie@example.com	10-03-2023	UK
+4	David Lee	david@example.com	15-03-2023	Australia
+5	Eva Green	eva@example.com	20-03-2023	India
+6	Frank Moore	frank@example.com	25-03-2023	USA
+7	Grace Kim	grace@example.com	30-03-2023	Canada
+8	Henry Ford	henry@example.com	04-04-2023	UK
+9	Ivy Chen	ivy@example.com	09-04-2023	Australia
+10	Jack Ma	jack@example.com	14-04-2023	India
