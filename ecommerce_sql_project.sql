@@ -37,7 +37,7 @@ CREATE TABLE order_items (
     unit_price NUMERIC(10, 2) NOT NULL
 );
 
--- 🧾 Step 2: Insert Sample Data
+-- Step 2: Insert Sample Data
 
 -- Customers
 INSERT INTO customers (name, email, signup_date, country) VALUES
