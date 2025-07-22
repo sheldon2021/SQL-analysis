@@ -46,9 +46,6 @@ ORDER BY total_revenue DESC;
 👉 Shows which campaigns generated the most revenue.
 
 2. Customer Lifetime Value (Top 5)
-sql
-Copy
-Edit
 SELECT 
     customers.customer_id,
     customers.name,
@@ -62,9 +59,6 @@ LIMIT 5;
 👉 Identifies the highest-value customers.
 
 📂 Folder Structure
-pgsql
-Copy
-Edit
 ecommerce-sql-analysis/
 ├── data/
 │   ├── customers.csv
